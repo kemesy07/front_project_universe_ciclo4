@@ -1,0 +1,31 @@
+.tabla {
+  width: 95%;
+  margin: 25px;
+  overflow-y: scroll;
+}
+
+.tabla td,
+.tabla th {
+  padding: 6px;
+  border: 1px solid rgb(10, 10, 10);
+}
+
+.tabla th {
+  background-color: #aa0494;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+}
+
+.tabla tr:nth-child(even) {
+  background-color: #f8e9e9;
+}
+
+.tabla tr:nth-child(odd) {
+  background-color: #f8e9e9;
+}
+
+.tabla tr:hover {
+  background-color: rgb(241, 216, 216);
+}
