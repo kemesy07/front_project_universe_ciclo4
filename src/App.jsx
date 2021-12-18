@@ -25,7 +25,7 @@ import IndexAvance from 'pages/avances';
 // import PrivateRoute from 'components/PrivateRoute';
 
 const httpLink = createHttpLink({
-  uri: 'http://localhost:4000/graphql',
+  uri: 'https://project-universe-misiontic.herokuapp.com/graphql',
 });
 
 const authLink = setContext((_, { headers }) => {
