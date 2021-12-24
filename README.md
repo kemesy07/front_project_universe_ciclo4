@@ -1,5 +1,5 @@
 # **PROJECT UNIVERSE**
-## **GIRLS CODE KCA**
+## **GIRLS CODE KC**
 
 |**AUTORES** | **ROLES** | 
 |---| ---| 
