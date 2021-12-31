@@ -1,16 +1,16 @@
 # **PROJECT UNIVERSE**
-## **GIRLS CODE KC**
+## **GRUPO GIRLS CODE KC**
 
 |**AUTORES** | **ROLES** | 
 |---| ---| 
 |**[Martha Carolina Mantilla Cárdenas](https://github.com/carolinamantilla)**  | Scrum Master - Administradora De BD - Desarrolladora |
 |**[Keidy Mercado Sierra](https://github.com/kemesy07)**  | Product Owner - Analista - Desarrolladora |
 
-## **DESCRIPCION DEL PROYECTO**
+## **Descripcion del Proyecto**
 Project Universe es una pagina web que permite la gestión de proyectos de investigación. 
 
-## **DESCRIPCION DEL FRONTEND**
-### **INTERFACES GRÁFICAS**
+## **Descripcion del Frontend**
+### **Interfaces Graficas**
  * **Gestión de usuarios**
 
  * **Gestión de proyectos**
@@ -19,16 +19,16 @@ Project Universe es una pagina web que permite la gestión de proyectos de inves
 
  * **Gestión de avances**
 
-## **REPOSITORIO DEL FRONTEND**
+## **Repositorio del Frontend**
 [Fuentes del Frontend en GitHub](https://github.com/GirlsCodeKCA/project_girlscodekca)
 
-## **REPOSITORIO DEL BACKEND**
+## **Repositorio del Backend**
 [Fuentes del Backend en GitHub](https://github.com/GirlsCodeKCA/back_project_girlscodekca)
 
-## TABLERO DE TRABAJO EN TRELLO:
+## Tablero de trabajo en trello:
 [Tablero en Trello](https://trello.com/b/E8PLlLxf/website-to-manage-research-projects)
 
-## **COMANDOS PARA EJECUTAR LA APP**
+## **Comandos para ejecutar La App**
 El Framework utilizado para el Frontend en nuestro equipo fue REACT JS, y su comando de ejecución es yarn start.
 
 ### `yarn start`
